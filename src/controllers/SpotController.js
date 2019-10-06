@@ -1,7 +1,7 @@
 const Spot = require("../models/Spot");
 
 module.exports = {
-  async StorageEvent(req, res) {
+  async store(req, res) {
     return res.json({ ok: true });
   }
 };
