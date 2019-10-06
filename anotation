@@ -2,3 +2,4 @@
 
 // req.query = acessar query params (para filtros)
 // req.params = acessar route params (para edição e delete)
+// req.body = acessar corpo da requisição (para criação e edição)
