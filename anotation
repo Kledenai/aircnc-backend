@@ -1,0 +1,4 @@
+// GET, POST, PUT, DELETE
+
+// req.query = acessar query params (para filtros)
+// req.params = acessar route params (para edição e delete)
